@@ -22,7 +22,7 @@ You can install LoggerBot using pip:
 pip install loggerbot
 ```
 
-Pypi.org ([https://pypi.org/project/loggerbot/](loggerbot))
+Pypi.org (https://pypi.org/project/loggerbot/)
 
 ## Usage
 
