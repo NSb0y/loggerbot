@@ -4,6 +4,22 @@
 
 LoggerBot is a Telegram logging library that allows you to send log messages to one or multiple Telegram chats using a bot. It provides an easy-to-use interface for logging various types of messages and includes features like rate limiting and message queuing.
 
+## Table of Contents
+
+- [Features](#features)
+- [Examples](#Examples)
+- [Installation](#installation)
+- [Usage](#usage)
+  - [Basic Usage](#basic-usage)
+  - [Advanced Usage](#advanced-usage)
+    - [Rate Limiting](#rate-limiting)
+    - [Setting Log Level](#setting-log-level)
+    - [Using with Python's logging module](#using-with-pythons-logging-module)
+    - [HTML Formatting for Log Messages](#html-formatting-for-log-messages)
+- [Register a Telegram Bot](#Register-a-Telegram-Bot)
+- [Contributing](#contributing)
+- [License](#license)
+
 ## Features
 
 - Send log messages to one or multiple Telegram chats
