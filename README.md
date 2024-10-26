@@ -14,6 +14,11 @@ LoggerBot is a Telegram logging library that allows you to send log messages to 
 - Backward compatibility with the `LogBot` alias
 - HTML formatting support for log messages
 
+## Examples
+
+![Example 1](loggerbot/images/alertExample.png)
+![Example 2](loggerbot/images/alertExample2.png)
+
 ## Installation
 
 You can install LoggerBot using pip:
@@ -116,6 +121,15 @@ log_bot.info("For more information, visit our <a href='https://example.com'>docu
 ```
 
 Note: Make sure to use HTML entities for special characters like `<` (`&lt;`), `>` (`&gt;`), and `&` (`&amp;`) when they're not part of HTML tags.
+
+## Register a Telegram Bot
+
+To register a Telegram bot and obtain an API key, follow these steps:
+
+1. Open the Telegram app and search for [BotFather](https://t.me/BotFather).
+2. Start a chat with BotFather and use the `/newbot` command to create a new bot.
+3. Follow the instructions to name your bot and get a unique username.
+4. Once your bot is created, you will receive a **Bot Token**. This token is used to authenticate your bot with the Telegram API.
 
 ## Contributing
 
