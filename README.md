@@ -129,6 +129,8 @@ Note: Make sure to use HTML entities for special characters like `<` (`&lt;`), `
 
 ## Register a Telegram Bot
 
+![<img src="images/tg.png" width="188"/>](images/tg.png)
+
 To register a Telegram bot and obtain an API key, follow these steps:
 
 1. Open the Telegram app and search for [BotFather](https://t.me/BotFather).
