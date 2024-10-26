@@ -1,4 +1,4 @@
-![<img src="images/logo.webp" width="288"/>](images/logo.webp)
+![<img src="images/loggerbot.png" width="288"/>](images/loggerbot.png)
 # LoggerBot
 
 © N.Sikharulidze (https://ubix.pro/)
