@@ -16,8 +16,8 @@ LoggerBot is a Telegram logging library that allows you to send log messages to 
 
 ## Examples
 
-![Example 1](images/alertExample.png)
-![Example 2](images/alertExample2.png)
+![Example 1](images/alertExample.png =228x)
+![Example 2](images/alertExample2.png =228x)
 
 ## Installation
 
