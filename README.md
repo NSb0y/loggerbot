@@ -129,7 +129,7 @@ Note: Make sure to use HTML entities for special characters like `<` (`&lt;`), `
 
 ## Register a Telegram Bot
 
-![<img src="images/tg.webp" width="188"/>](images/tg.webp)
+![<img src="images/tg2.webp" width="188"/>](images/tg2.webp)
 
 To register a Telegram bot and obtain an API key, follow these steps:
 
